@@ -6,20 +6,23 @@ Manage makes it simple for software teams to plan day-to-day task while keeping 
 
 Follow these instructions to run this project on your local machine for development and testing purposes.
 
-## Installing
+### Installing
 
 1. Clone the repo
 
-### `git clone https://github.com/baulagerwin/manage.git`
+#### `git clone https://github.com/baulagerwin/manage.git`
 
 2. Open index.html
 
-### `double click index.html`
+#### `double click index.html`
 
-### `Enjoy!`
+3. Explore
+
+#### `Enjoy!`
 
 ## Built With
 
+- Hypertext Markup Language
 - Tailwind CSS
 
 ## Acknowledgement
