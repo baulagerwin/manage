@@ -16,7 +16,7 @@ Follow these instructions to run this project on your local machine for developm
 
 2. Open index.html
 
-### `open index.html`
+### `double click index.html`
 
 ### `Enjoy!`
 
