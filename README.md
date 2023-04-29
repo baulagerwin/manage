@@ -1,30 +1,30 @@
+
 # Manage
 
 Manage makes it simple for software teams to plan day-to-day task while keeping the larger team goals in view.
+## Requirements
 
-## Getting Started
+Install the following requirements first before proceeding.
+
+- [Git](https://git-scm.com/) - Version Control System
+## Installation
 
 Follow these instructions to run this project on your local machine for development and testing purposes.
 
-### Installing
+1. Clone the repository.
 
-1. Clone the repo
+```bash
+  git clone https://github.com/baulagerwin/manage.git
+```
 
-#### `git clone https://github.com/baulagerwin/manage.git`
+2. Open its directory.
 
-2. Open index.html
+3. Double click index.html.
 
-#### `double click index.html`
-
-3. Explore
-
-#### `Enjoy!`
-
+4. Explore and enjoy.
 ## Built With
+-   HyperText Markup Language (HTML)
+-   TailwindCSS
+## Acknowledgements
 
-- Hypertext Markup Language
-- Tailwind CSS
-
-## Acknowledgement
-
-- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework used
+ - [TailwindCSS](https://tailwindcss.com/) - CSS Framework used.
